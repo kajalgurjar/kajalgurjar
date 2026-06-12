@@ -18,6 +18,11 @@ I am a passionate Backend Developer with 3+ years of experience building scalabl
 * Git & GitHub
 * Docker
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+
 ### 🌱 Currently Learning
 
 * System Design
